@@ -1,0 +1,40 @@
+
+h1 {
+	font-size: 20;
+	color: grey;
+}
+.A{
+	padding-top: 50px;
+	margin: 0px;
+	height: 200px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Open Sans', sans-serif;
+	color: white;
+	background:linear-gradient(45deg, yellow, green);
+}
+
+body{
+	margin: 0;
+}
+.B{
+	font-weight: 600;
+}
+.C{
+	
+    padding-top: 15px;
+	display: inline-block;
+	font-size: 15px;
+	font-weight: 400;
+}
+.D{
+	margin-top: 50px;
+	display: inline-block;
+	font-size: 15px;
+}
+#R{
+	margin-right: 10px;
+}
+#C{
+	margin-left: 10px;
+}
